@@ -40,3 +40,13 @@ Git add
 ![Картинка](https://a.d-cd.net/I_tkXETQDX2x-yZHfM5IdXswdo0-960.jpg)
 
 [Drive2](https://www.drive2.ru/users/miamigod00/)
+
+## Работа со списками
+
+1.Один
+2.Два
+
+*
+*
++
++
