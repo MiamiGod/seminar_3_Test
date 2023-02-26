@@ -44,8 +44,12 @@ Git add
 ![Картинка2](https://a.d-cd.net/DXtB7DqmWybkCjHOEXnJQrCX-eI-1920.jpg)
 
 ## Добавление ссылок
+Для того, что бы добавить ссылку нужно прописать следующее:
+[Название ссылки] (Адресс) Пробел между скобками не ставим
 
 [Drive2](https://www.drive2.ru/users/miamigod00/)
+
+[Autoexe](https://www.autoexe.co.jp/en/)
 
 ## Работа со списками
 
